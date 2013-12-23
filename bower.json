@@ -6,7 +6,7 @@
     "xiaojue <designsor@gmail.com>"
   ],
   "description": "rich text editor for lithe.js",
-  "main": "editor.js",
+  "main": "Ceditor.js",
   "dependencies":{
   },
   "keywords": [
