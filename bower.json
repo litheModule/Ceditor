@@ -8,7 +8,6 @@
   "description": "rich text editor for lithe.js",
   "main": "editor.js",
   "dependencies":{
-     "jquery":"1.10.2" 
   },
   "keywords": [
     "richEditor"
